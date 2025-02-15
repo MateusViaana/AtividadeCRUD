@@ -31,3 +31,5 @@ C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEli
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Cadastrar.resources
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Formularios.TelaIncial.resources
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Properties.Resources.resources
+C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Formularios.CadastroFuncionarios.resources
+C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Formularios.bugado.resources

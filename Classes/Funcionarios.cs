@@ -2,7 +2,7 @@
 {
     public int idFuncionario {  get; set; }
     public string nome { get; set; }
-    public int cpf { get; set; }
+    public string cpf { get; set; }
     public string funcao { get; set; }
     public string sexo { get; set; }
     public string email { get; set; }

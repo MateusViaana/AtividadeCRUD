@@ -2,7 +2,7 @@
 using System;
 public class DaoFuncionario
 {
-  
+
     public void Insert(Funcionarios funcionarios)
     {
         try
@@ -24,37 +24,14 @@ public class DaoFuncionario
             comando.Parameters.AddWithValue("@dataNascimento", funcionarios.dataNascimento);
 
             comando.ExecuteNonQuery();
-        }
-        catch (Exception ex) 
-            {
-                throw new Exception("Erro ao cadastrar! " + ex.Message); ;
-            }
-                              
-    }
-    public List<Funcionarios> List()
-    {
-        List<Funcionarios> funcionarios = new List<Funcionarios>();
-        try
-        {
-            var sqll = "SELECT * FROM funcionarios order by nome";
-            MySqlCommand comando = new MySqlCommand(sqll, Conexao.Conectar()) ;
-            using (MySqlCommand dr = comando.ExecuteReader())
-            {
-                while (dr.ExecuteReader().Read())
-                {
-                    Funcionarios f1 = new Funcionarios();
-                    f1.idFuncionario = dr.GetInt32("id_alu");
-
-                }
-            }
+            
         }
         catch (Exception ex)
         {
-
-            throw;
+            throw new Exception("Erro ao cadastrar! " + ex.Message); ;
         }
-
         return funcionarios;
     }
+
 
 }

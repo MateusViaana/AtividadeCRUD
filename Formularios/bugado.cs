@@ -7,24 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using AtidadeEliasCRUD.Formularios;
 
 namespace AtidadeEliasCRUD.Formularios
 {
-    public partial class TelaIncial : Form
+    public partial class bugado : Form
     {
-        public TelaIncial()
+        public bugado()
         {
             InitializeComponent();
-           
-        }
-
-       
-
-        private void btADD_Click(object sender, EventArgs e)
-        {
-            Cadastrar formm = new Cadastrar();
-            formm.ShowDialog();
         }
     }
 }

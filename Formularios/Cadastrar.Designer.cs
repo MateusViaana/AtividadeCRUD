@@ -28,37 +28,39 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox10 = new TextBox();
+            txtEmail = new TextBox();
             label11 = new Label();
-            textBox9 = new TextBox();
             label10 = new Label();
-            textBox8 = new TextBox();
+            txtDataNascimento = new TextBox();
             label9 = new Label();
-            textBox7 = new TextBox();
+            txtTelefone = new TextBox();
             label8 = new Label();
-            textBox6 = new TextBox();
+            txtSexo = new TextBox();
             label7 = new Label();
-            textBox5 = new TextBox();
+            txtEstado = new TextBox();
             label6 = new Label();
             txtFuncao = new TextBox();
             label5 = new Label();
-            textBox3 = new TextBox();
+            txtCidade = new TextBox();
             label4 = new Label();
             txtCpf = new TextBox();
             label3 = new Label();
             txtNome = new TextBox();
             label2 = new Label();
             btExcluir = new Button();
-            btADD = new Button();
+            btSalvar = new Button();
             label1 = new Label();
+            CbSituacao = new ComboBox();
+            button1 = new Button();
+            label12 = new Label();
             SuspendLayout();
             // 
-            // textBox10
+            // txtEmail
             // 
-            textBox10.Location = new Point(72, 246);
-            textBox10.Name = "textBox10";
-            textBox10.Size = new Size(239, 23);
-            textBox10.TabIndex = 47;
+            txtEmail.Location = new Point(72, 246);
+            txtEmail.Name = "txtEmail";
+            txtEmail.Size = new Size(239, 23);
+            txtEmail.TabIndex = 47;
             // 
             // label11
             // 
@@ -70,13 +72,6 @@
             label11.TabIndex = 46;
             label11.Text = "Email";
             // 
-            // textBox9
-            // 
-            textBox9.Location = new Point(539, 207);
-            textBox9.Name = "textBox9";
-            textBox9.Size = new Size(118, 23);
-            textBox9.TabIndex = 45;
-            // 
             // label10
             // 
             label10.AutoSize = true;
@@ -87,12 +82,12 @@
             label10.TabIndex = 44;
             label10.Text = "Situação";
             // 
-            // textBox8
+            // txtDataNascimento
             // 
-            textBox8.Location = new Point(331, 207);
-            textBox8.Name = "textBox8";
-            textBox8.Size = new Size(118, 23);
-            textBox8.TabIndex = 43;
+            txtDataNascimento.Location = new Point(331, 207);
+            txtDataNascimento.Name = "txtDataNascimento";
+            txtDataNascimento.Size = new Size(118, 23);
+            txtDataNascimento.TabIndex = 43;
             // 
             // label9
             // 
@@ -104,12 +99,12 @@
             label9.TabIndex = 42;
             label9.Text = "DataNascimento";
             // 
-            // textBox7
+            // txtTelefone
             // 
-            textBox7.Location = new Point(72, 207);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(118, 23);
-            textBox7.TabIndex = 41;
+            txtTelefone.Location = new Point(72, 207);
+            txtTelefone.Name = "txtTelefone";
+            txtTelefone.Size = new Size(118, 23);
+            txtTelefone.TabIndex = 41;
             // 
             // label8
             // 
@@ -121,12 +116,12 @@
             label8.TabIndex = 40;
             label8.Text = "Telefone";
             // 
-            // textBox6
+            // txtSexo
             // 
-            textBox6.Location = new Point(519, 157);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(118, 23);
-            textBox6.TabIndex = 39;
+            txtSexo.Location = new Point(519, 157);
+            txtSexo.Name = "txtSexo";
+            txtSexo.Size = new Size(118, 23);
+            txtSexo.TabIndex = 39;
             // 
             // label7
             // 
@@ -138,12 +133,12 @@
             label7.TabIndex = 38;
             label7.Text = "Sexo";
             // 
-            // textBox5
+            // txtEstado
             // 
-            textBox5.Location = new Point(379, 157);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(54, 23);
-            textBox5.TabIndex = 37;
+            txtEstado.Location = new Point(379, 157);
+            txtEstado.Name = "txtEstado";
+            txtEstado.Size = new Size(54, 23);
+            txtEstado.TabIndex = 37;
             // 
             // label6
             // 
@@ -172,12 +167,12 @@
             label5.TabIndex = 34;
             label5.Text = "Função";
             // 
-            // textBox3
+            // txtCidade
             // 
-            textBox3.Location = new Point(72, 157);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(239, 23);
-            textBox3.TabIndex = 33;
+            txtCidade.Location = new Point(72, 157);
+            txtCidade.Name = "txtCidade";
+            txtCidade.Size = new Size(239, 23);
+            txtCidade.TabIndex = 33;
             // 
             // label4
             // 
@@ -230,26 +225,26 @@
             btExcluir.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             btExcluir.ForeColor = SystemColors.Control;
             btExcluir.ImageAlign = ContentAlignment.MiddleLeft;
-            btExcluir.Location = new Point(398, 316);
+            btExcluir.Location = new Point(233, 372);
             btExcluir.Name = "btExcluir";
             btExcluir.Size = new Size(93, 48);
             btExcluir.TabIndex = 26;
             btExcluir.Text = "Cancelar";
             btExcluir.UseVisualStyleBackColor = false;
             // 
-            // btADD
+            // btSalvar
             // 
-            btADD.AutoSize = true;
-            btADD.BackColor = Color.FromArgb(0, 192, 0);
-            btADD.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            btADD.ForeColor = SystemColors.Control;
-            btADD.Location = new Point(276, 316);
-            btADD.Name = "btADD";
-            btADD.Size = new Size(97, 48);
-            btADD.TabIndex = 25;
-            btADD.Text = "Salvar";
-            btADD.UseVisualStyleBackColor = false;
-            btADD.Click += btADD_Click;
+            btSalvar.AutoSize = true;
+            btSalvar.BackColor = Color.FromArgb(0, 192, 0);
+            btSalvar.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            btSalvar.ForeColor = SystemColors.Control;
+            btSalvar.Location = new Point(111, 372);
+            btSalvar.Name = "btSalvar";
+            btSalvar.Size = new Size(97, 48);
+            btSalvar.TabIndex = 25;
+            btSalvar.Text = "Salvar";
+            btSalvar.UseVisualStyleBackColor = false;
+            btSalvar.Click += btSalvar_Click;
             // 
             // label1
             // 
@@ -263,64 +258,98 @@
             label1.Text = "Gerenciar Funcionarios";
             label1.TextAlign = ContentAlignment.MiddleLeft;
             // 
+            // CbSituacao
+            // 
+            CbSituacao.BackColor = SystemColors.Window;
+            CbSituacao.ForeColor = SystemColors.WindowText;
+            CbSituacao.FormattingEnabled = true;
+            CbSituacao.Items.AddRange(new object[] { "Ativo", "Inativo", "Afastado" });
+            CbSituacao.Location = new Point(539, 207);
+            CbSituacao.Name = "CbSituacao";
+            CbSituacao.Size = new Size(121, 23);
+            CbSituacao.TabIndex = 48;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(612, 393);
+            button1.Name = "button1";
+            button1.Size = new Size(166, 36);
+            button1.TabIndex = 49;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // label12
+            // 
+            label12.AutoSize = true;
+            label12.Location = new Point(586, 313);
+            label12.Name = "label12";
+            label12.Size = new Size(134, 15);
+            label12.TabIndex = 50;
+            label12.Text = "label1sadsadsadsadsad2";
+            // 
             // Cadastrar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(textBox10);
+            Controls.Add(label12);
+            Controls.Add(button1);
+            Controls.Add(CbSituacao);
+            Controls.Add(txtEmail);
             Controls.Add(label11);
-            Controls.Add(textBox9);
             Controls.Add(label10);
-            Controls.Add(textBox8);
+            Controls.Add(txtDataNascimento);
             Controls.Add(label9);
-            Controls.Add(textBox7);
+            Controls.Add(txtTelefone);
             Controls.Add(label8);
-            Controls.Add(textBox6);
+            Controls.Add(txtSexo);
             Controls.Add(label7);
-            Controls.Add(textBox5);
+            Controls.Add(txtEstado);
             Controls.Add(label6);
             Controls.Add(txtFuncao);
             Controls.Add(label5);
-            Controls.Add(textBox3);
+            Controls.Add(txtCidade);
             Controls.Add(label4);
             Controls.Add(txtCpf);
             Controls.Add(label3);
             Controls.Add(txtNome);
             Controls.Add(label2);
             Controls.Add(btExcluir);
-            Controls.Add(btADD);
+            Controls.Add(btSalvar);
             Controls.Add(label1);
             Name = "Cadastrar";
-            Text = "Form2";
+            Text = "Cadastrar";
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private TextBox textBox10;
+        private TextBox txtEmail;
         private Label label11;
-        private TextBox textBox9;
         private Label label10;
-        private TextBox textBox8;
+        private TextBox txtDataNascimento;
         private Label label9;
-        private TextBox textBox7;
+        private TextBox txtTelefone;
         private Label label8;
-        private TextBox textBox6;
+        private TextBox txtSexo;
         private Label label7;
-        private TextBox textBox5;
+        private TextBox txtEstado;
         private Label label6;
         private TextBox txtFuncao;
         private Label label5;
-        private TextBox textBox3;
+        private TextBox txtCidade;
         private Label label4;
         private TextBox txtCpf;
         private Label label3;
         private TextBox txtNome;
         private Label label2;
         private Button btExcluir;
-        private Button btADD;
+        private Button btSalvar;
         private Label label1;
+        private ComboBox CbSituacao;
+        private Button button1;
+        private Label label12;
     }
 }

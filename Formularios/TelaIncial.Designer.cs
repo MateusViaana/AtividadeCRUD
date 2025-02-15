@@ -36,6 +36,7 @@
             btExcluir = new Button();
             dataGridView1 = new DataGridView();
             Column1 = new DataGridViewTextBoxColumn();
+            label1 = new Label();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -120,12 +121,22 @@
             Column1.HeaderText = "Column1";
             Column1.Name = "Column1";
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(142, 40);
+            label1.Name = "label1";
+            label1.Size = new Size(40, 15);
+            label1.TabIndex = 31;
+            label1.Text = "Nome";
+            // 
             // TelaIncial
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(192, 192, 255);
             ClientSize = new Size(800, 450);
+            Controls.Add(label1);
             Controls.Add(dataGridView1);
             Controls.Add(btExcluir);
             Controls.Add(button1);
@@ -134,7 +145,7 @@
             Controls.Add(btPesquisar);
             Name = "TelaIncial";
             Text = "TelaIncial";
-            Load += TelaIncial_Load;
+          
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -149,5 +160,6 @@
         private Button btExcluir;
         private DataGridView dataGridView1;
         private DataGridViewTextBoxColumn Column1;
+        private Label label1;
     }
 }

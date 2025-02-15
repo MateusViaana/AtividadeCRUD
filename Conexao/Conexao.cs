@@ -12,7 +12,6 @@ public class Conexao
             conexao = new MySqlConnection(strconexao);
             conexao.Open();
             
-            MessageBox.Show("Conectou ao banco de Dados!");
         }
         catch (Exception ex)
         {
