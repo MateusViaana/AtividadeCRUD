@@ -10,11 +10,27 @@ using System.Windows.Forms;
 
 namespace AtidadeEliasCRUD
 {
-    public partial class Form2 : Form
+    public partial class Cadastrar : Form
     {
-        public Form2()
+
+        public Cadastrar()
         {
             InitializeComponent();
+
+
         }
+
+
+        private void btADD_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+        
+        }
+
+      
     }
 }

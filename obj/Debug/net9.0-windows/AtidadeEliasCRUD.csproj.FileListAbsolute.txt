@@ -4,7 +4,6 @@ C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEli
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.AssemblyInfoInputs.cache
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.AssemblyInfo.cs
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.csproj.CoreCompileInputs.cache
-C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Form2.resources
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\bin\Debug\net9.0-windows\AtidadeEliasCRUD.exe
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\bin\Debug\net9.0-windows\AtidadeEliasCRUD.deps.json
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\bin\Debug\net9.0-windows\AtidadeEliasCRUD.runtimeconfig.json
@@ -28,3 +27,7 @@ C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\refint\Ati
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.pdb
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.genruntimeconfig.cache
 C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\ref\AtidadeEliasCRUD.dll
+C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.sourcelink.json
+C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Cadastrar.resources
+C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Formularios.TelaIncial.resources
+C:\Users\mateu\source\repos\AtidadeEliasCRUD\obj\Debug\net9.0-windows\AtidadeEliasCRUD.Properties.Resources.resources

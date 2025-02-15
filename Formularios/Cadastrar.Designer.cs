@@ -1,6 +1,6 @@
 ﻿namespace AtidadeEliasCRUD
 {
-    partial class Form2
+    partial class Cadastrar
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             textBox10 = new TextBox();
             label11 = new Label();
             textBox9 = new TextBox();
@@ -49,7 +48,6 @@
             label3 = new Label();
             txtNome = new TextBox();
             label2 = new Label();
-            button1 = new Button();
             btExcluir = new Button();
             btADD = new Button();
             label1 = new Label();
@@ -225,34 +223,18 @@
             label2.TabIndex = 28;
             label2.Text = "Nome";
             // 
-            // button1
-            // 
-            button1.AutoSize = true;
-            button1.BackColor = Color.FromArgb(255, 128, 0);
-            button1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            button1.ForeColor = SystemColors.Control;
-            button1.Image = (Image)resources.GetObject("button1.Image");
-            button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(246, 52);
-            button1.Name = "button1";
-            button1.Size = new Size(111, 36);
-            button1.TabIndex = 27;
-            button1.Text = "Editar";
-            button1.UseVisualStyleBackColor = false;
-            // 
             // btExcluir
             // 
             btExcluir.AutoSize = true;
             btExcluir.BackColor = Color.Red;
             btExcluir.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             btExcluir.ForeColor = SystemColors.Control;
-            btExcluir.Image = (Image)resources.GetObject("btExcluir.Image");
             btExcluir.ImageAlign = ContentAlignment.MiddleLeft;
-            btExcluir.Location = new Point(129, 52);
+            btExcluir.Location = new Point(398, 316);
             btExcluir.Name = "btExcluir";
-            btExcluir.Size = new Size(111, 36);
+            btExcluir.Size = new Size(93, 48);
             btExcluir.TabIndex = 26;
-            btExcluir.Text = "Excluir";
+            btExcluir.Text = "Cancelar";
             btExcluir.UseVisualStyleBackColor = false;
             // 
             // btADD
@@ -261,14 +243,13 @@
             btADD.BackColor = Color.FromArgb(0, 192, 0);
             btADD.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             btADD.ForeColor = SystemColors.Control;
-            btADD.ImageAlign = ContentAlignment.MiddleLeft;
-            btADD.Location = new Point(12, 52);
+            btADD.Location = new Point(276, 316);
             btADD.Name = "btADD";
-            btADD.Size = new Size(111, 36);
+            btADD.Size = new Size(97, 48);
             btADD.TabIndex = 25;
-            btADD.Text = "Adicionar";
-            btADD.TextAlign = ContentAlignment.MiddleRight;
+            btADD.Text = "Salvar";
             btADD.UseVisualStyleBackColor = false;
+            btADD.Click += btADD_Click;
             // 
             // label1
             // 
@@ -282,7 +263,7 @@
             label1.Text = "Gerenciar Funcionarios";
             label1.TextAlign = ContentAlignment.MiddleLeft;
             // 
-            // Form2
+            // Cadastrar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -307,11 +288,10 @@
             Controls.Add(label3);
             Controls.Add(txtNome);
             Controls.Add(label2);
-            Controls.Add(button1);
             Controls.Add(btExcluir);
             Controls.Add(btADD);
             Controls.Add(label1);
-            Name = "Form2";
+            Name = "Cadastrar";
             Text = "Form2";
             ResumeLayout(false);
             PerformLayout();
@@ -339,7 +319,6 @@
         private Label label3;
         private TextBox txtNome;
         private Label label2;
-        private Button button1;
         private Button btExcluir;
         private Button btADD;
         private Label label1;

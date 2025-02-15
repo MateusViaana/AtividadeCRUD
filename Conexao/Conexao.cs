@@ -11,11 +11,13 @@ public class Conexao
             string strconexao = "server=localhost; uid=root; pwd=mateus; database=AtividadeElias";
             conexao = new MySqlConnection(strconexao);
             conexao.Open();
-
+            
+            MessageBox.Show("Conectou ao banco de Dados!");
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Erro ao realizar a conexão com a base de dados!");
+           
+            MessageBox.Show("Erro ao realizar a conexão com a base de dados!");
         }
         return conexao;
     }

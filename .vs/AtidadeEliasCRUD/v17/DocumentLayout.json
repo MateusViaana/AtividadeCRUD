@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\dao\\daofuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:dao\\daofuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\classes\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:classes\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\formularios\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:formularios\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\formularios\\telaincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:formularios\\telaincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\formularios\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:formularios\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\formularios\\telaincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:formularios\\telaincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\formularios\\cadastrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:formularios\\cadastrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\conexao\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:conexao\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|c:\\users\\mateu\\source\\repos\\atidadeeliascrud\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE12319-237E-481F-9BAE-143311CA5883}|AtidadeEliasCRUD.csproj|solutionrelative:applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Form2.Designer.cs",
-              "RelativeDocumentMoniker": "Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Form2.Designer.cs",
-              "RelativeToolTip": "Form2.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T23:04:43.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ApplicationConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\ApplicationConfiguration.cs",
               "RelativeDocumentMoniker": "ApplicationConfiguration.cs",
@@ -63,68 +62,124 @@
               "RelativeToolTip": "ApplicationConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:26:17.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Form2.cs [Projeto]",
-              "RelativeToolTip": "Form2.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:25:33.547Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-02-09T22:26:17.28Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Title": "TelaIncial.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\TelaIncial.cs",
+              "RelativeDocumentMoniker": "Formularios\\TelaIncial.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\TelaIncial.cs [Projeto]",
+              "RelativeToolTip": "Formularios\\TelaIncial.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:10:49.785Z"
+              "WhenOpened": "2025-02-15T00:54:08.235Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Formularios\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\Cadastrar.cs",
+              "RelativeToolTip": "Formularios\\Cadastrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:41:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Classes\\Funcionarios.cs",
+              "RelativeDocumentMoniker": "Classes\\Funcionarios.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Classes\\Funcionarios.cs",
+              "RelativeToolTip": "Classes\\Funcionarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:37:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DaoFuncionarios.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\DAO\\DaoFuncionarios.cs",
               "RelativeDocumentMoniker": "DAO\\DaoFuncionarios.cs",
               "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\DAO\\DaoFuncionarios.cs",
               "RelativeToolTip": "DAO\\DaoFuncionarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T21:38:03.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastrar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Formularios\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\Cadastrar.cs [Projeto]",
+              "RelativeToolTip": "Formularios\\Cadastrar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:05:27.397Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelaIncial.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\TelaIncial.cs",
+              "RelativeDocumentMoniker": "Formularios\\TelaIncial.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\TelaIncial.cs",
+              "RelativeToolTip": "Formularios\\TelaIncial.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:57:13.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:10:49.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastrar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\Cadastrar.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\Cadastrar.Designer.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Formularios\\Cadastrar.Designer.cs",
+              "RelativeToolTip": "Formularios\\Cadastrar.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:12:29.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Conexao\\Conexao.cs",
               "RelativeDocumentMoniker": "Conexao\\Conexao.cs",
               "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Conexao\\Conexao.cs",
               "RelativeToolTip": "Conexao\\Conexao.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T21:37:32.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Funcionarios.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Classes\\Funcionarios.cs",
-              "RelativeDocumentMoniker": "Classes\\Funcionarios.cs",
-              "ToolTip": "C:\\Users\\mateu\\source\\repos\\AtidadeEliasCRUD\\Classes\\Funcionarios.cs",
-              "RelativeToolTip": "Classes\\Funcionarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T21:37:09.635Z"
+              "WhenOpened": "2025-02-09T21:37:32.632Z",
+              "EditorCaption": ""
             }
           ]
         }
